@@ -1,0 +1,8 @@
+.idea
+__pycache__
+token.json
+*.pyc
+*.DS_Store
+.env
+.pylintrc
+.vscode
